@@ -1,1 +1,3 @@
-print("Hellp DICT!")
+print("Python education")
+# new string
+print("DICT")
